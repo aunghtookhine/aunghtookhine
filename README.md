@@ -9,12 +9,12 @@
 - Ship through Jenkins to Docker and Kubernetes, with Kong API Gateway in front
 
 ## Tech stack
-**Languages:** Java, SQL, Python, JavaScript
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-**Frontend:** React, Next.js, HTML5, CSS3
-**Data:** Oracle, MariaDB, MySQL, MongoDB, Redis, Kafka
-**Security:** JWT, Keycloak
-**DevOps:** Docker, Kubernetes (Rancher), Jenkins, Kong API Gateway, Git, Maven
+- **Languages:** Java, SQL, Python, JavaScript
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- **Frontend:** React, Next.js, HTML5, CSS3
+- **Data:** Oracle, MariaDB, MySQL, MongoDB, Redis, Kafka
+- **Security:** JWT, Keycloak
+- **DevOps:** Docker, Kubernetes (Rancher), Jenkins, Kong API Gateway, Git, Maven
 
 ## Experience
 - **Freelance Backend Developer**, private e-wallet client (2025 – 2026): built seven third-party integration adapters
